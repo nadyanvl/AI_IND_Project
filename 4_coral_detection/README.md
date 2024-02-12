@@ -1,1 +1,1 @@
-# coral_monitoring
+# Coral Detection
