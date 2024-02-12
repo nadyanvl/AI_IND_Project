@@ -15,7 +15,8 @@ Coral reefs are vital ecosystems facing threats from climate change. NOAA predic
 
 ## Getting Started
 ### 1. Data Collection & Preparation
-**Dataset:** Coral Life Forms Detection  
+**Dataset:** [Coral Life Forms Detection](https://universe.roboflow.com/computer-vision-xiyu1/coral-life-forms-detection/dataset/3)
+
 **Data Source:** ROV surveys in the North Bali Sea, manually annotated in Roboflow.
 
 ### 2. Model Development
