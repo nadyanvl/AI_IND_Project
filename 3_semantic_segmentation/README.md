@@ -16,6 +16,7 @@ In Autonomous Driving Vehicles, accurate understanding of the surroundings is cr
 ## Getting Started
 ### 1. Data Collection & Preparation
 **Dataset:** [Cityscapes Dataset](https://www.cityscapes-dataset.com/)
+
 The dataset provides high-resolution images and pixel-level annotations for semantic segmentation, vital for training models in autonomous driving.
 
 ### 2. Model Development
